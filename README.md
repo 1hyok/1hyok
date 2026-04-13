@@ -1,1 +1,1 @@
-![Solved.ac](https://img.shields.io/badge/Tier-Gold%201-gold?style=flat-square&logo=solved.ac&logoColor=white)
+[![Solved.ac Profile](https://mazassumnida.vercel.app/api/generate_badge?boj={rlfjrl1415})](https://solved.ac/{rlfjrl1415})
