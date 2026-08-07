@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Ilhyuk 👋
+# 안녕하세요, 1hyok입니다 👋
 
-### Android developer building dependable Kotlin products
+### 신뢰할 수 있는 Kotlin 제품을 만드는 Android Developer
 
-I care about resilient user flows, maintainable architecture,<br/>
-and delivery pipelines that make quality repeatable.
+사용자가 막히지 않는 흐름, 유지보수 가능한 구조,<br/>
+품질을 반복 가능하게 만드는 검증·배포 자동화를 중요하게 생각합니다.
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -16,23 +16,23 @@ and delivery pipelines that make quality repeatable.
 
 </div>
 
-## Selected work
+## 대표 작업
 
-| Project | What it shows |
+| 프로젝트 | 작업 내용 |
 | --- | --- |
-| [**Afternote**](https://github.com/Afternote/Afternote-FE) | A digital-legacy and scheduled-message Android product. I work across Kotlin/Compose architecture, release automation, failure-path QA, and production readiness. |
-| [**HabitFlow**](https://github.com/1hyok/HabitFlow) | A framework-free Kotlin habit-tracker core demonstrating Clean Architecture, state-driven presentation, dependency inversion, and tested use cases. |
-| [**Hackathon-FE**](https://github.com/1hyok/Hackathon-FE) | A Jetpack Compose app for discovering and sharing custom food combinations, built with Hilt, Retrofit, and layered architecture. |
-| [**Smart Sleep Lighting — Edge Node**](https://github.com/1hyok/smart-sleep-lighting-onprem) | A Raspberry Pi edge application that filters illuminance sensor data and publishes reliable device state over MQTT. |
+| [**Afternote**](https://github.com/Afternote/Afternote-FE) | 디지털 유산과 예약 메시지를 다루는 Android 서비스입니다. Kotlin/Compose 아키텍처, 배포 자동화, 실패 경로 QA와 출시 안정성을 개선하고 있습니다. |
+| [**HabitFlow**](https://github.com/1hyok/HabitFlow) | Android 프레임워크에 의존하지 않는 Kotlin 습관 추적 코어입니다. Clean Architecture, 상태 기반 표현 계층, DIP와 테스트 가능한 유스케이스를 구현했습니다. |
+| [**Hackathon-FE**](https://github.com/1hyok/Hackathon-FE) | 사용자만의 음식 조합을 발견하고 공유하는 Jetpack Compose 앱입니다. Hilt, Retrofit과 계층형 구조를 적용했습니다. |
+| [**Smart Sleep Lighting — Edge Node**](https://github.com/1hyok/smart-sleep-lighting-onprem) | Raspberry Pi에서 조도 센서 데이터를 필터링하고 MQTT로 안정적으로 발행하는 edge application입니다. |
 
-## Engineering focus
+## 집중하는 영역
 
-- **Product reliability** — explicit failure recovery, consistent state, and real-device QA
-- **Android architecture** — Kotlin, Jetpack Compose, coroutines/Flow, and modular boundaries
-- **Delivery automation** — GitHub Actions, release gates, and repeatable visual verification
-- **API collaboration** — clear contracts between mobile clients and backend services
+- **Product reliability** — 명확한 실패 복구, 상태 일관성, 실기기 QA
+- **Android architecture** — Kotlin, Jetpack Compose, coroutines/Flow, 모듈 경계
+- **Delivery automation** — GitHub Actions, release gate, 반복 가능한 시각 검증
+- **API collaboration** — 모바일 클라이언트와 서버 사이의 명확한 contract
 
-## Problem solving
+## 문제 해결
 
 <a href="https://solved.ac/profile/rlfjrl1415">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rlfjrl1415" width="360" alt="Solved.ac profile" />
