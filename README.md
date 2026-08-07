@@ -16,7 +16,7 @@ Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만�
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-[**1hyok.me에서 포트폴리오 보기 →**](https://1hyok.me)
+[**1hyok.me에서 포트폴리오 보기 →**](https://1hyok.me) &nbsp;·&nbsp; [**기술 블로그 →**](https://info07700.tistory.com)
 
 </div>
 
