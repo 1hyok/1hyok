@@ -1,4 +1,4 @@
-### 앱부터 서버까지, 신뢰할 수 있는 제품을 만드는 Product Engineer
+### 앱부터 서버까지, 신뢰할 수 있는 서비스를 제작하는 Engineer
 
 Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만듭니다.<br/>
 상태 일관성, 명확한 계약, 반복 가능한 검증·배포를 중요하게 생각합니다.
