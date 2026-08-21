@@ -1,7 +1,5 @@
 <div align="center">
 
-# 안녕하세요, 1hyok입니다 👋
-
 ### 앱부터 서버까지, 신뢰할 수 있는 제품을 만드는 Product Engineer
 
 Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만듭니다.<br/>
@@ -16,7 +14,7 @@ Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만�
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-[**1hyok.me에서 포트폴리오 보기 →**](https://1hyok.me) &nbsp;·&nbsp; [**기술 블로그 →**](https://info07700.tistory.com)
+[**포트폴리오 보기**](https://1hyok.me) &nbsp;·&nbsp; [**블로그**](https://info07700.tistory.com)
 
 </div>
 
@@ -32,13 +30,13 @@ Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만�
 
 ## 집중하는 영역
 
-- **Product reliability** — 명확한 실패 복구, 상태 일관성, 실기기 QA
-- **Android architecture** — Kotlin, Jetpack Compose, coroutines/Flow, 모듈 경계
-- **Backend engineering** — Java, Spring Boot, JPA, 인증과 API contract
-- **Delivery automation** — GitHub Actions, release gate, 반복 가능한 시각 검증
-- **Product-wide thinking** — 모바일 클라이언트와 서버를 함께 보는 문제 해결
+- **Product reliability**: 명확한 실패 복구, 상태 일관성, 실기기 QA
+- **Android architecture**: Kotlin, Jetpack Compose, coroutines/Flow, 모듈 경계
+- **Backend engineering**: Java, Spring Boot, JPA, 인증과 API contract
+- **Delivery automation**: GitHub Actions, release gate, 반복 가능한 시각 검증
+- **Product-wide thinking**: 모바일 클라이언트와 서버를 함께 보는 문제 해결
 
-## 문제 해결
+## 알고리즘
 
 <a href="https://solved.ac/profile/rlfjrl1415">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rlfjrl1415" width="360" alt="Solved.ac profile" />
