@@ -26,8 +26,6 @@ Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만�
 | [**Hackathon-FE**](https://github.com/1hyok/Hackathon-FE) | 사용자만의 음식 조합을 발견하고 공유하는 Jetpack Compose 앱입니다. Hilt, Retrofit과 계층형 구조를 적용했습니다. |
 | [**Smart Sleep Lighting — Edge Node**](https://github.com/1hyok/smart-sleep-lighting-onprem) | Raspberry Pi에서 조도 센서 데이터를 필터링하고 MQTT로 안정적으로 발행하는 edge application입니다. |
 
-## 알고리즘
-
 <a href="https://solved.ac/profile/rlfjrl1415">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rlfjrl1415" width="360" alt="Solved.ac profile" />
 </a>
