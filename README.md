@@ -1,7 +1,6 @@
-### 앱부터 서버까지, 신뢰할 수 있는 서비스를 제작하는 Engineer
+### 앱부터 서버까지, 신뢰할 수 있는 서비스를 만듭니다
 
-Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만듭니다.<br/>
-상태 일관성, 명확한 계약, 반복 가능한 검증·배포를 중요하게 생각합니다.
+Compose로 사용자 흐름, Spring으로 도메인과 API를 만듭니다.<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -18,10 +17,10 @@ Jetpack Compose로 사용자 흐름을, Spring Boot로 도메인과 API를 만�
 
 | 프로젝트 | 작업 내용 |
 | --- | --- |
-| [**Afternote**](https://github.com/Afternote/Afternote-FE) | 디지털 유산과 예약 메시지를 다루는 Android 서비스입니다. Kotlin/Compose 아키텍처, 배포 자동화, 실패 경로 QA와 출시 안정성을 개선하고 있습니다. |
+| [**Afternote**](https://github.com/Afternote/Afternote-FE) | 디지털 유산을 관리하는 Android 서비스입니다. Kotlin/Compose 아키텍처, 배포 자동화, 실패 경로 QA와 안정성을 개선하고 있습니다. |
 | [**Hampouch**](https://github.com/Hampouch/Hampouch-Server) | Java와 Spring Boot로 인증, 도메인 로직, 데이터 일관성과 명확한 API 계약을 설계하는 서버 프로젝트입니다. |
 | [**HabitFlow**](https://github.com/1hyok/HabitFlow) | Android 프레임워크에 의존하지 않는 Kotlin 습관 추적 코어입니다. Clean Architecture, 상태 기반 표현 계층, DIP와 테스트 가능한 유스케이스를 구현했습니다. |
-| [**Hackathon-FE**](https://github.com/1hyok/Hackathon-FE) | 사용자만의 음식 조합을 발견하고 공유하는 Jetpack Compose 앱입니다. Hilt, Retrofit과 계층형 구조를 적용했습니다. |
+| [**Hackathon-FE**](https://github.com/1hyok/Hackathon-FE) | 사용자만의 음식 조합을 발견하고 공유하는 Android 서비스입니다. |
 | [**Smart Sleep Lighting — Edge Node**](https://github.com/1hyok/smart-sleep-lighting-onprem) | Raspberry Pi에서 조도 센서 데이터를 필터링하고 MQTT로 안정적으로 발행하는 edge application입니다. |
 
 <a href="https://solved.ac/profile/rlfjrl1415">
