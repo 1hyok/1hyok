@@ -29,7 +29,7 @@ Compose로 사용자 흐름, Spring으로 도메인과 API를 만듭니다.<br/>
   <a href="https://solved.ac/profile/rlfjrl1415">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rlfjrl1415" width="360" alt="Solved.ac profile" />
   </a>
-  <a href="https://leetcode.com/u/LeaveMeTheFxckAlone/">
-    <img src="https://leetcard.jacoblin.cool/LeaveMeTheFxckAlone?theme=light,dark&amp;font=Inter" width="360" alt="LeetCode profile" />
+  <a href="https://leetcode.com/u/LeaveMeToCode/">
+    <img src="https://leetcard.jacoblin.cool/LeaveMeToCode?theme=light,dark&amp;font=Inter" width="360" alt="LeetCode profile" />
   </a>
 </p>
