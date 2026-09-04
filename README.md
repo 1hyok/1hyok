@@ -13,7 +13,7 @@
 
 | 프로젝트 | 작업 내용 |
 | --- | --- |
-| [**Afternote**](https://github.com/Afternote/Afternote-FE) | 디지털 유산을 관리하는 Android 서비스입니다. Kotlin/Compose 아키텍처, 배포 자동화, 실패 경로 QA와 안정성을 개선하고 있습니다. |
+| [**Afternote-FE**](https://github.com/Afternote/Afternote-FE) | 디지털 유산을 관리하는 Android 서비스입니다. Kotlin/Compose 아키텍처, 배포 자동화, 실패 경로 QA와 안정성을 개선하고 있습니다. |
 | [**Afternote-BE**](https://github.com/Afternote/Afternote-BE) | Afternote의 Java·Spring Boot 백엔드입니다. 타임레터 예약 발송의 수신자 유일 제약과 중복 정리, 상태 전환 로직, sendAt 시각 규약(RFC 3339 오프셋)을 정리했습니다. |
 | [**Hampouch**](https://github.com/Hampouch/Hampouch-Server) | Java와 Spring Boot로 인증, 도메인 로직, 데이터 일관성과 명확한 API 계약을 설계하는 서버 프로젝트입니다. |
 | [**Hackathon-FE**](https://github.com/1hyok/Hackathon-FE) | 사용자만의 음식 조합을 발견하고 공유하는 Android 서비스입니다. |
