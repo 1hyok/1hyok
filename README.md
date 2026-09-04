@@ -1,7 +1,5 @@
 ### 앱부터 서버까지, 신뢰할 수 있는 서비스를 만듭니다
 
-Compose로 사용자 흐름, Spring으로 도메인과 API를 만듭니다.<br/>
-
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
@@ -12,8 +10,6 @@ Compose로 사용자 흐름, Spring으로 도메인과 API를 만듭니다.<br/>
 </p>
 
 </div>
-
-## 대표 작업
 
 | 프로젝트 | 작업 내용 |
 | --- | --- |
