@@ -10,7 +10,7 @@ I build Android and backend apps, along with practical tools for everyday workfl
 - [SlowClock](https://github.com/1hyok/SlowClock): 고령자가 쓰기 쉬운 큰 글자와 터치 영역을 중심으로 만든 Android 일정·알람 앱입니다.
 - [mac-memory-diagnostics](https://github.com/1hyok/mac-memory-diagnostics): macOS 메모리와 프로세스 상태를 읽기 전용으로 기록하는 Python 도구입니다.
 - [auto-sub-extractor](https://github.com/1hyok/auto-sub-extractor): 영상에서 한국어 자막을 추출하는 Windows·Whisper 워크플로입니다.
-- [smartflood](https://github.com/1hyok/smartflood): 서울 도림천 침수 위험 예측과 대피 안내를 목표로 한 프로젝트입니다.
+- [smartflood](https://github.com/1hyok/smartflood): 도림천 침수 위험도 UI/API 시제품이며, 현재 응답은 고정 더미 데이터입니다.
 
 ## Tools and automation
 
