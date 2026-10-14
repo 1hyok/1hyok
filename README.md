@@ -3,7 +3,7 @@
 안녕하세요. Android와 백엔드 앱, 일상 문제를 해결하는 작은 자동화 도구를 만듭니다.  
 I build Android and backend apps, along with practical tools for everyday workflows.
 
-[Portfolio](https://1hyok.me) · [Public repositories](https://github.com/1hyok?tab=repositories)
+[Portfolio](https://1hyok.me) · [Portfolio source](https://github.com/1hyok/1hyok.github.io) · [Public repositories](https://github.com/1hyok?tab=repositories)
 
 ## Featured projects
 
